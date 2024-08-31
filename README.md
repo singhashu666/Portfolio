@@ -1,4 +1,4 @@
-# Personal Portfolio Website using React + Tailwind CSS
+# Personal Portfolio Website using ReactJS
+# Live Demo: https://ashutosh-portfolio2.netlify.app/
 
 
-<img src="src\assets\image.png" width="128"/>
